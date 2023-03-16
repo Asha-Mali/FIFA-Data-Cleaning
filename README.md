@@ -8,7 +8,7 @@ We are given a task to clean the messy FIFA '21 dataset which has 79 columns lik
 ## Data Cleaning Process
 For the analysis of data, the data should be accurate and consistent. With the elimination of irrelevant and duplicate data, one can ensure the raw data is complete and free of errors.
 
-<img  height=400 width=700 src="https://www.tekstream.com/wp-content/uploads/2018/05/data-cleaning1-1.x21717.jpg">
+![image](https://www.tekstream.com/wp-content/uploads/2018/05/data-cleaning1-1.x21717.jpg)
 
 <h2>White Space</h2>
 After the data was loaded into power query, the white space removed by unticking the "Show whitespace" in View tab.
