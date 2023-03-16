@@ -6,7 +6,7 @@
 We are given a task to clean the messy FIFA '21 dataset which has 79 columns like ID, Name, Longname, Nationality, PlayerUrl, Age, OVA, POT, Height, Weight, Prefered foot, Value, Wage, Release clause etc and 18,979 rows. The task is to clean the data and make it ready for analysis. The cleaning process involves deleting duplicates, null values, changing datatype, removing extra spaces, special characters, handling missing values, look for the wrong calculations etc.
 
 ## Data Cleaning Process
-For the analysis of data, the data should be accurate and consistent. With the elimination of irrelevant and duplicate data, one can ensure the raw data is complete and free of errors.
+For the analysis of data, the data should be accurate and consistent. With the elimination of irrelevant and duplicate data, one can ensure the raw data is complete and free of errors. I used power query for cleaning.
 
 ![image](https://www.tekstream.com/wp-content/uploads/2018/05/data-cleaning1-1.x21717.jpg)
 
